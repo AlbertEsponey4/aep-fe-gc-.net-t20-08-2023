@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Tarea19
+namespace Tarea20
 {
     class Program
     {
@@ -464,7 +464,7 @@ namespace Tarea19
             Ejercicio16();
             Console.WriteLine("----------------------\n\n");
             Ejercicio17();
-            Console.WriteLine("----------------------\n\n\n");
+            Console.WriteLine("----------------------\n\n");
             Ejercicio18();
             Console.WriteLine("----------------------\n\n");
             Ejercicio19();
